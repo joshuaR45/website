@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contact{
+    position: relative;
+    background-size: center
+    ;
+    background-position: center;
+}
+img{
+    position: relative;
+    height: 800px;
+    width: 600px;
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+li{
+    float: left;
+}
+li a{text-decoration: none;
+    color: brown;
+    padding: 16px;
+    display: block  ;
+}
+h1{
+    position: relative;
+    text-align: center;
+}
+#first{
+    padding: 16px;
+    display: 16px;
+}
+input{type=text}
